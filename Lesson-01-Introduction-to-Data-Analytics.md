@@ -41,7 +41,7 @@ I also learned that traditional analytics often focuses on descriptive analytics
 
 This helped me understand that both real-time and historical data are valuable. Real-time data helps organizations understand what is happening now, while historical data helps them understand past performance and identify patterns over time.
 
-Although traditional analytics is not limited to descriptive analytics, although descriptive analytics is a common part of traditional reporting. Traditional analytical methods can also include diagnostic techniques that investigate why something happened.
+Although traditional analytics is not limited to descriptive analytics, but descriptive analytics is a common part of traditional reporting. Traditional analytical methods can also include diagnostic techniques that investigate why something happened.
 
 Key Takeaways
 
